@@ -1,0 +1,7 @@
+data/*
+docker/database/data/*
+src/*
+blog/*
+src2/*
+src
+*.zip
